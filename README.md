@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @shadee22
-- 👀 I’m interested in WEB3
-- 🌱 I’m currently learning Machine Learning And AI
-- 💞️ I’m looking to collaborate on Frespixl
-- 📫 IF ANYONE WANT TO CONTACT 
-      # EMAIL TO : shadeersadikeen@gmail.com
-      # LINKDIN : https://www.linkedin.com/in/shadeer-/
+# Hi There 👋 Welcome to my profile.
+
+### Well Experienced With
+
+- Frontend [ ReactJS | VueJS | NextJS and NuxtJS | Svelte | Tailwind | Sass ] 🤟
+- Backend [ NodeJS | Laravel | Django | PHP ] 🤩
+- Devops [ AWS | GoogleCloud | Firebase ] 😝
+- ML / AI [ Tensorflow | Sklearn | Zenml | MLFlow | Pandas | Numpy ] 😏
