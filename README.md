@@ -5,4 +5,4 @@
 - Frontend [ ReactJS | VueJS | NextJS and NuxtJS | Svelte | Tailwind | Sass ] 🤟
 - Backend [ NodeJS | Laravel | Django | PHP ] 🤩
 - Devops [ AWS | GoogleCloud | Firebase ] 😝
-- ML / AI [ Tensorflow | Sklearn | Zenml | MLFlow | Pandas | Numpy ] 😏
+- ML / AI [ Tensorflow | SageMaker AI | POWERBI | Deep Analysis | Sklearn | Zenml | MLFlow | Pandas | Numpy ] 😏
